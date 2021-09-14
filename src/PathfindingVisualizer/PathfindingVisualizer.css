@@ -1,0 +1,15 @@
+.grid-container {
+  margin: 10% auto;
+}
+
+.grid {
+  white-space: pre;
+}
+button {
+  margin: 2px;
+}
+.lol {
+  background-color:lightcyan;
+  padding: 10px;
+}
+
